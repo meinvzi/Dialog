@@ -1,0 +1,27 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 400px;
+    height: 300px;
+    background: pink;
+    margin: 50px auto;
+}
+.title{
+    width: 370px;
+    padding-left: 30px;
+    line-height: 45px;
+    border-bottom: 0.1px solid #999;
+    float:left;
+}
+.span{
+    float: right;
+    padding-right: 20px;
+}
+.h2{
+    width: 400px;
+    line-height: 60px;
+    text-align: center;
+}
